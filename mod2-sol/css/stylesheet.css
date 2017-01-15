@@ -1,10 +1,10 @@
-<!--keep the size of a container fixed, and extend size of container when there is ample space >
-
 * {
   box-sizing: border-box;
 }
 body {
-  font-family: Verdana, Geneva, sans-serif;
+  <!--font-family: Verdana, Geneva, sans-serif;-->
+  font-family:  Comic Sans MS, cursive, sans-serif ; 
+
   
 }
 section {
